@@ -18,4 +18,4 @@ Provide a real-time suggestions for client's ideal hotel based on cities and wea
 - Used the csv data sourse to create heatmap and google maps with directions and markers. 
 - Created an image with marker layer map, and direction layer map and pop-up marker layer map for chosen 4 cities.
 
-
+https://github.com/k389/World_Weather_Analysis/tree/master/images
